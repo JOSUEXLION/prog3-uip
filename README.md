@@ -1,7 +1,7 @@
 # prog3-uip
-git init README.md
-git LICENSE
-git parciales (f)
-git investigaciones (f)
-git laboratorios (f)
-git tareas (f)
+-Programacion de computadora III 
+- UIP 
+:Autor: <Josue de leon>
+:Fecha: <20/999/2015>
+:versiorn: <1.0>
+<descripcion>
