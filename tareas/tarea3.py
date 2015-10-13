@@ -1,3 +1,6 @@
+#josue de leon
+#tarea3
+
 '''
 Escriba un programa en Python donde el usuario introduce un numero n y
 el programa imprime los primeros n numeros triangulares,
