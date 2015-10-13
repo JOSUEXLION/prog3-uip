@@ -14,3 +14,4 @@ horas = int(minuts / 60)
 minutos = minuts % 60
 
 print('Dias: ' + str(dias) + ', Horas: ' + str(horas) + ', Minutos: ' + str(minuts)+'\ncorrespondientes')
+ 
