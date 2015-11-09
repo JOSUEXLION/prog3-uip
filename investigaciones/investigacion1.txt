@@ -3,6 +3,37 @@
 
 
 pruebas unitarias
+sobre puebas unitarias
+
+Una prueba unitaria es una forma de comprobar el correcto funcionamiento de un módulo de código. Esto sirve para asegurar que cada uno de los módulos funcione correctamente por separado. Luego, con las Pruebas de Integración, se podrá asegurar el correcto funcionamiento del sistema o subsistema en cuestión.
+La idea es escribir casos de prueba para cada función no trivial o método en el módulo, de forma que cada caso sea independiente del resto.
+Características
+Automatizable
+    No debería requerirse una intervención manual. Esto es especialmente útil para integración continúa.
+Completas
+    Deben cubrir la mayor cantidad de código.
+Repetibles o Reutilizables
+    No se deben crear pruebas que sólo puedan ser ejecutadas una sola vez. También es útil para integración continua.
+Independientes
+    La ejecución de una prueba no debe afectar a la ejecución de otra.
+Profesionales
+    Las pruebas deben ser consideradas igual que el código, con la misma profesionalidad, documentación, etc.
+
+Aunque estos requisitos no tienen que ser cumplidos al pie de la letra, se recomienda seguirlos o de lo contrario las pruebas pierden parte de su función.
+
+El objetivo de las pruebas unitarias es aislar cada parte del programa y mostrar que las partes individuales son correctas. Proporcionan un contrato escrito que el trozo de código debe satisfacer. Estas pruebas aisladas proporcionan cinco ventajas básicas:
+
+Fomentan el cambio
+    Las pruebas unitarias facilitan que el programador cambie el código para mejorar su estructura (lo que se ha dado en llamar refactorización), puesto que permiten hacer pruebas sobre los cambios y así asegurarse de que los nuevos cambios no han introducido errores.
+Simplifica la integración
+    Puesto que permiten llegar a la fase de integración con un grado alto de seguridad de que el código está funcionando correctamente. De esta manera se facilitan las pruebas de integración.
+Documenta el código
+    Las propias pruebas son documentación del código puesto que ahí se puede ver cómo utilizarlo.
+Separación de la interfaz y la implementación
+    Dado que la única interacción entre los casos de prueba y las unidades bajo prueba son las interfaces de estas últimas, se puede cambiar cualquiera de los dos sin afectar al otro, a veces usando objetos mock (mock object) para simular el comportamiento de objetos complejos.
+Los errores están más acotados y son más fáciles de localizar
+    Dado que tenemos pruebas unitarias que pueden desenmascararlos.
+
 Escribir un programa que implemente pruebas unitarias.
 
 JUnit es un conjunto de bibliotecas creadas por Erich Gamma y Kent Beck
