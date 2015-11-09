@@ -1,0 +1,13 @@
+¿Que es main y como funciona?
+la funcion main es la primera función que se ejecuta en un programa.
+Cuando el intérprete de Python lee un archivo de código fuente, 
+se ejecuta todo el código que se encuentran en ella. Antes de ejecutar el código, 
+se definen unas variables especiales. Por ejemplo, 
+si el intérprete de python está ejecutando en ese módulo (el archivo de origen) 
+como en el programa principal, se establece el especial __name__ variable tenga un 
+valor "__main__". Si este archivo se importa de otro módulo, __name__ establecerá con el nombre del módulo.
+Después de configurar las variables especiales,
+ se ejecutarán import instrucción y la carga de los módulos.
+ Será, entonces, evaluar la def bloque,
+ la creación de un objeto de la función y la creación de una variable myfunction que señala el objeto de la función. 
+Luego de leer la if instrucción y ver que __name__ igual "__main__", por lo que se ejecutará el bloque que allí se muestra.
