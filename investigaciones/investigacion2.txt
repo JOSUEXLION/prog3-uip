@@ -1,0 +1,10 @@
+#josue de leon
+
+Averiguar qué es un API y cómo implementarlo en Python
+Resultados de la búsqueda
+ Una API es un conjunto de funciones y procedimientos que cumplen una o muchas funciones con el fin de ser utilizadas por otro software. 
+ Las siglas API vienen del inglés Application Programming Interface.
+ En español sería Interfaz de Programación de Aplicaciones.
+cómo implementarlo en Python
+lo implementaremos en python utilizando 
+ Bottle y MongoDB 
