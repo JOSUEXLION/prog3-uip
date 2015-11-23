@@ -1,0 +1,88 @@
+<Calculadora>:
+    id: calcular
+    numeros: campo
+
+    BoxLayout:                       
+        orientation: 'vertical'  
+        #padding: 100              #Tamano del relleno A-, D+
+        spacing: 5                #Espacio entre los objectos
+
+        TextInput:
+            id: campo               
+            size_hint: 1, None   #P1 T vertical, P2  T Horizontal
+            font_size: 50          
+            multiline: False      
+
+        GridLayout:
+            rows: 4  
+            cols: 4   
+
+            Button:
+                text: '7'
+                on_press: campo.text += self.text  
+                size_hint: -7,-5
+
+            Button:
+                text: '8'
+                on_press: campo.text += self.text 
+
+            Button:
+                text: '9'
+                on_press: campo.text += self.text 
+
+            Button:
+                text: '/'
+                on_press: campo.text += self.text
+
+            Button:
+                text: '4'
+                on_press: campo.text += self.text 
+
+            Button:
+                text: '5'
+                on_press: campo.text += self.text 
+
+            Button:
+                text: '6'
+                on_press: campo.text += self.text 
+
+            Button:
+                text: '*'
+                on_press: campo.text += self.text
+
+            Button:
+                text: '1'
+                on_press: campo.text += self.text 
+
+            Button:
+                text: '2'
+                on_press: campo.text += self.text 
+
+            Button:
+                text: '3'
+                on_press: campo.text += self.text
+
+            Button:
+                text: '-'
+                on_press: campo.text += self.text
+
+            Button:
+                text: 'C'
+                on_press: calcular.Borrar(campo.text)
+            
+            Button:
+                text: '0'
+                on_press: campo.text += self.text 
+
+            Button:
+                text: '+'
+                on_press: campo.text += self.text 
+
+            Button:
+                text: '='
+                on_press: calcular.Calculos(campo.text)
+
+            Button:
+                text: 'BORRAR'
+                on_press: calcular.Del(campo.text)
+                pos: 700,400
