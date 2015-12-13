@@ -1,0 +1,506 @@
+[
+   {
+      "name":"24 de Diciembre",
+      "type":"KS"
+   },
+   {
+      "name":"9 de Enero",
+      "type":"AN"
+   },
+   {
+      "name":"Agua Buena",
+      "type":"LN"
+   },
+   {
+      "name":"Albrook",
+      "type":"3Z"
+   },
+   {
+      "name":"Alcalde Diaz",
+      "type":"JN"
+   },
+   {
+      "name":"Altos de Cerro Viento",
+      "type":"ES"
+   },
+   {
+      "name":"Altos de Diablo",
+      "type":"3Z"
+   },
+   {
+      "name":"Altos de Tocumen",
+      "type":"KS"
+   },
+   {
+      "name":"Altos de las Acacias",
+      "type":"GS"
+   },
+   {
+      "name":"Altos del Hipódromo",
+      "type":"CS"
+   },
+   {
+      "name":"Ancón",
+      "type":"2Z"
+   },
+   {
+      "name":"Auto Motor",
+      "type":"7Z"
+   },
+   {
+      "name":"Barriada Tocumen",
+      "type":"JS"
+   },
+   {
+      "name":"Bella Vista",
+      "type":"4Z"
+   },
+   {
+      "name":"Bethania",
+      "type":"5Z"
+   },
+   {
+      "name":"Brisas del Golf",
+      "type":"FS"
+   },
+   {
+      "name":"Cabuyita",
+      "type":"KS"
+   },
+   {
+      "name":"Calidonia",
+      "type":"3Z"
+   },
+   {
+      "name":"Calzada de Amador",
+      "type":"1Z"
+   },
+   {
+      "name":"Centro Comercial Los Andes N°2",
+      "type":"CN"
+   },
+   {
+      "name":"Cerro Batea",
+      "type":"DN"
+   },
+   {
+      "name":"Cerro Cocobolo",
+      "type":"FN"
+   },
+   {
+      "name":"Cerro Viento",
+      "type":"ES"
+   },
+   {
+      "name":"Cerro Viento Rural",
+      "type":"ES"
+   },
+   {
+      "name":"Chanis",
+      "type":"7Z"
+   },
+   {
+      "name":"Chivo Chivo",
+      "type":"FN"
+   },
+   {
+      "name":"Chorrillo",
+      "type":"2Z"
+   },
+   {
+      "name":"Cipreses",
+      "type":"HN"
+   },
+   {
+      "name":"Ciudad Belén",
+      "type":"JS"
+   },
+   {
+      "name":"Ciudad Bolivar",
+      "type":"JN"
+   },
+   {
+      "name":"Ciudad Jardin las Mañanitas",
+      "type":"JS"
+   },
+   {
+      "name":"Ciudad Radial",
+      "type":"FS"
+   },
+   {
+      "name":"Club del Golf",
+      "type":"IS"
+   },
+   {
+      "name":"Colinas de Cerro Batea",
+      "type":"EN"
+   },
+   {
+      "name":"Colonia Infantil",
+      "type":"HN"
+   },
+   {
+      "name":"Colonia Las Lomas",
+      "type":"AS"
+   },
+   {
+      "name":"Condado del Rey",
+      "type":"AN"
+   },
+   {
+      "name":"Costa del Este",
+      "type":"7Z"
+   },
+   {
+      "name":"Don Bosco",
+      "type":"GS"
+   },
+   {
+      "name":"Dorasol",
+      "type":"CS"
+   },
+   {
+      "name":"El Chimborazo (Juan diaz)",
+      "type":"ES"
+   },
+   {
+      "name":"El Crisol",
+      "type":"BS"
+   },
+   {
+      "name":"El Cristo",
+      "type":"AN"
+   },
+   {
+      "name":"El Dorado",
+      "type":"5Z"
+   },
+   {
+      "name":"El Guayabito",
+      "type":"FS"
+   },
+   {
+      "name":"El Martillo",
+      "type":"AN"
+   },
+   {
+      "name":"El Sitio",
+      "type":"BS"
+   },
+   {
+      "name":"El Tecal",
+      "type":"LN"
+   },
+   {
+      "name":"Fátima",
+      "type":"AN"
+   },
+   {
+      "name":"Hotel Holiday Inn",
+      "type":"JS"
+   },
+   {
+      "name":"La Bandera",
+      "type":"IS"
+   },
+   {
+      "name":"La Boca",
+      "type":"1Z"
+   },
+   {
+      "name":"La Cabima",
+      "type":"IN"
+   },
+   {
+      "name":"La Concepción",
+      "type":"FS"
+   },
+   {
+      "name":"La Doña",
+      "type":"JS"
+   },
+   {
+      "name":"La Esmeralda",
+      "type":"LN"
+   },
+   {
+      "name":"La Pulida",
+      "type":"AS"
+   },
+   {
+      "name":"La Siesta",
+      "type":"JS"
+   },
+   {
+      "name":"La Unión",
+      "type":"LN"
+   },
+   {
+      "name":"Las Cumbres",
+      "type":"IN"
+   },
+   {
+      "name":"Las Lajas",
+      "type":"IN"
+   },
+   {
+      "name":"Las Mañanitas",
+      "type":"JS"
+   },
+   {
+      "name":"Las Sabanas",
+      "type":"5Z"
+   },
+   {
+      "name":"Las Trancas",
+      "type":"ES"
+   },
+   {
+      "name":"Llano Bonito",
+      "type":"BS"
+   },
+   {
+      "name":"Los Andes N° 1",
+      "type":"AN"
+   },
+   {
+      "name":"Los Andes N°2",
+      "type":"CN"
+   },
+   {
+      "name":"Los Libertadores",
+      "type":"6Z"
+   },
+   {
+      "name":"Los Pueblos",
+      "type":"ES"
+   },
+   {
+      "name":"Lucha Franco",
+      "type":"IN"
+   },
+   {
+      "name":"Mano de Piedra",
+      "type":"FN"
+   },
+   {
+      "name":"Monte Rico",
+      "type":"JS"
+   },
+   {
+      "name":"Morelos",
+      "type":"JS"
+   },
+   {
+      "name":"Naranjal",
+      "type":"GS"
+   },
+   {
+      "name":"Nueva California",
+      "type":"FS"
+   },
+   {
+      "name":"Nueva Libia despues del puente",
+      "type":"IN"
+   },
+   {
+      "name":"Nuevo Veranillo",
+      "type":"BN"
+   },
+   {
+      "name":"Pan de Azucar",
+      "type":"AN"
+   },
+   {
+      "name":"Panamá Viejo",
+      "type":"6Z"
+   },
+   {
+      "name":"Pedregal Anasal",
+      "type":"GS"
+   },
+   {
+      "name":"Pedregalito",
+      "type":"FS"
+   },
+   {
+      "name":"Punta Fresca",
+      "type":"AS"
+   },
+   {
+      "name":"Punta Pacífica",
+      "type":"5Z"
+   },
+   {
+      "name":"Punta Paitilla",
+      "type":"4Z"
+   },
+   {
+      "name":"Quebrada Ancha",
+      "type":"LN"
+   },
+   {
+      "name":"Rana de Oro",
+      "type":"GS"
+   },
+   {
+      "name":"Residencial Alta Vista",
+      "type":"CS"
+   },
+   {
+      "name":"Residencial Altos de San Pedro",
+      "type":"CS"
+   },
+   {
+      "name":"Ruben Dario Paredes",
+      "type":"KS"
+   },
+   {
+      "name":"Río Abajo",
+      "type":"6Z"
+   },
+   {
+      "name":"Samaria",
+      "type":"CN"
+   },
+   {
+      "name":"San Antonio",
+      "type":"FS"
+   },
+   {
+      "name":"San Felipe",
+      "type":"2Z"
+   },
+   {
+      "name":"San Fernando",
+      "type":"CS"
+   },
+   {
+      "name":"San Isidro",
+      "type":"DN"
+   },
+   {
+      "name":"San Joaquin",
+      "type":"GS"
+   },
+   {
+      "name":"San José",
+      "type":"BN"
+   },
+   {
+      "name":"San Miguel",
+      "type":"3Z"
+   },
+   {
+      "name":"San Pedro",
+      "type":"CS"
+   },
+   {
+      "name":"San Vicente",
+      "type":"LN"
+   },
+   {
+      "name":"Santa Ana",
+      "type":"2Z"
+   },
+   {
+      "name":"Santa Clara",
+      "type":"AS"
+   },
+   {
+      "name":"Santa Ines",
+      "type":"ES"
+   },
+   {
+      "name":"Santa Librada",
+      "type":"EN"
+   },
+   {
+      "name":"Santa Marta",
+      "type":"FN"
+   },
+   {
+      "name":"Santa Pera",
+      "type":"CS"
+   },
+   {
+      "name":"Sonsonate",
+      "type":"FN"
+   },
+   {
+      "name":"Templo Bahai",
+      "type":"EN"
+   },
+   {
+      "name":"Teremar Plaza Tocumen",
+      "type":"GS"
+   },
+   {
+      "name":"Tinajita",
+      "type":"DN"
+   },
+   {
+      "name":"Torrijos Carter",
+      "type":"FN"
+   },
+   {
+      "name":"Universidad",
+      "type":"4Z"
+   },
+   {
+      "name":"Urb Dos Rios",
+      "type":"KS"
+   },
+   {
+      "name":"Urb el Bosque del Hipodromo",
+      "type":"BS"
+   },
+   {
+      "name":"Valle de San Isidro",
+      "type":"EN"
+   },
+   {
+      "name":"Valle de Urracá",
+      "type":"FN"
+   },
+   {
+      "name":"Versalles Campestre",
+      "type":"HN"
+   },
+   {
+      "name":"Villa Adelina",
+      "type":"IS"
+   },
+   {
+      "name":"Villa Catalina",
+      "type":"GS"
+   },
+   {
+      "name":"Villa Grecia",
+      "type":"LN"
+   },
+   {
+      "name":"Villa Lucre",
+      "type":"AS"
+   },
+   {
+      "name":"Villa Venus",
+      "type":"CS"
+   },
+   {
+      "name":"Villa Zaita",
+      "type":"HN"
+   },
+   {
+      "name":"Villa de las Fuentes",
+      "type":"6Z"
+   },
+   {
+      "name":"Villalobos (Hasta el Naranjal)",
+      "type":"HS"
+   },
+   {
+      "name":"Vista Hermosa",
+      "type":"KS"
+   }
+]
