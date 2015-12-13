@@ -1,0 +1,21 @@
+
+1)Es una forma de comprobar el correcto funcionamiento de un módulo de código
+2)En las pruebas unitarias, se mira para cubrir la funcionalidad de la aplicación
+3)que se debe probar? Los códigos para encontrar errores/
+calcular clase (objeto):
+Def add (self, x, y):
+return x + y 
+if __name__ == '__main__':
+calc = Calcular () 
+result = calc.add (2, 2)  
+print result
+4)Pruebas unitarias
+Sangría:
+Longitud máxima: 80 caracteres.
+Las líneas en blanco:
+Declaraciones de importación:
+Los nombres de clase:
+Nombres de los métodos:
+5)Después de la Norma PEP-8
+6)Como ya te he estado presentando a las pruebas unitarias en Python, 
+debe quedar claro que los diversos patrones y normas se siguen dentro de la comunidad Python.
