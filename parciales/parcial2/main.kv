@@ -1,0 +1,56 @@
+<CustomDropDown>:
+   Button:
+      text: 'My first Item'
+      size_hint_y: None
+      height: 44
+      on_release: root.select('item2')
+   Button:
+      text: 'My first Itasdasdf'
+      size_hint_y: None
+      height: 44
+      on_release: root.select('item3')
+
+<TaxiCosto>:
+   _layaout: _layaout
+   _drop_a: _drop_a
+   _drop_b: _drop_b
+  #  _cdrop : _cdrop
+   GridLayout:
+      id: _layaout
+      padding: [20,20,20,20]
+      spacing: [0,40]
+      size_hint: 1, 1
+      # pos_hint:{'x':.1, 'y':.1}
+      cols:1
+      rows:5
+      Label:
+         text: 'Tarifas de taxi Panamá'
+         color: (0, 0, 0, 1)
+        #  pos: 280, 350
+         size_hint: .1, .05
+         font_size: 55
+
+      Button:
+         id: _drop_a
+         text: 'Origen'
+         size_hint: .1, .02
+         background_color: (1,1,3,4)
+         on_release: root.onSelectDropDown('a')
+      Button:
+         id: _drop_b
+         text: 'Destino'
+         background_color: (1,1,3,4)
+         on_release: root.onSelectDropDown('b')
+         size_hint: .1, .02
+      Button:
+         text: 'Consultar'
+        #  background_color: (1,4)
+         on_release: root.getCosto()
+         size_hint: .1, .02
+      Label:
+         text: 'Tarifa Aproximada: ' + str(root.price)
+         #  pos: 280, 350
+         color: (0, 0, 0, 1)
+         bold: True
+         size_hint: .1, .03
+         font_size: 35
