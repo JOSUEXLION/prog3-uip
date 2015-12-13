@@ -1,6 +1,6 @@
-#
-# Copyright (c) 2015 by Julio Seña. All Rights Reserved.
-#
+#lab5
+# Copyright (c) 2015 by Josue de leon. All Rights Reserved.
+#grupo con julio Seña
 
 '''
     desarrolle una aplicacion que guarde, en un
