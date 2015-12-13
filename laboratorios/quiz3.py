@@ -1,3 +1,6 @@
+#lab3
+#josue de leon
+
 """"dado el intervalo de tiempo en segundos, 
 calcular los segundos restantes 
 que corresponden para convertirse exactamente en minutos. 
