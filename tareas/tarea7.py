@@ -1,3 +1,10 @@
+#josue de leon
+# Tarea 7
+#8-876-2357
+'''1.Crear una aplicacion en Kivy que maneje un registro de asistencia. Basicamente la aplicacion debe contener una 
+ etiqueta que diga "Nombre: ", un campo para ingresar cadenas de texto, un boton que diga "Guardar" y otro botin 
+ que diga "Exportar". El botn para guardar agrega el contenido del campo a una lista de asistencia. El boton para 
+exportar salva la lista de asistencia a un fichero con extension TXT'''
 
 import inspect,os
 from kivy.app import App
